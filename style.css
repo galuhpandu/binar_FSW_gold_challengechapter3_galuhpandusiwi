@@ -1,0 +1,27 @@
+body{
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        height: 100%;
+}
+/*Halaman 3*/
+.grid-container {
+    grid-area: cover;
+    display: grid;
+    border:none;
+    grid-template-columns: auto auto;
+    background-color: transparent;
+    padding: 10px;
+    margin-left: 50vw;
+  }
+  .grid-item {
+    border:none;
+    background-color: transparent;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+  }
+  .title{
+      color: white;
+      margin-top: 30px;
