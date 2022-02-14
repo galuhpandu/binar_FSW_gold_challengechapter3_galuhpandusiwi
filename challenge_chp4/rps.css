@@ -1,0 +1,17 @@
+#batu-player1:hover, #kertas-player1:hover, #gunting-player1:hover, #refresh:hover {
+    box-shadow: 0 0 10px 5px grey;
+    background-color: #c4c4c4;
+    padding:5%;
+    border-radius: 10px;
+  }
+
+  .gambar {
+      width: 80px;
+      height: 80px;
+  }
+
+  .highlight {
+    padding: 5%;
+    background: #c4c4c4;
+    border-radius: 10px;
+  }
